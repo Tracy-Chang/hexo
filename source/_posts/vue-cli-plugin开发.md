@@ -23,6 +23,8 @@ tags:
 ##### Generator
 * generator 可以向 package.json 注入额外的依赖或字段。可用于通过 preset 生成项目的时候。
 * 也可以向项目中添加文件。可用于，往项目中添加固定的模板代码的时候。
+* template 渲染方式，EJS https://github.com/mde/ejs
 
 ##### Prompts
 * 插件的对话框，可以提供参数的添加。这些参数会作为选项被传递给插件的 generator。
+* 对话框的开发方式，https://github.com/SBoudrias/Inquirer.js
