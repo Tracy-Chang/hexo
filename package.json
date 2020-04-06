@@ -18,6 +18,7 @@
     "hexo-server": "^0.3.3"
   },
   "devDependencies": {
-    "git-cz": "^4.3.1"
+    "commitizen": "^4.0.3",
+    "cz-conventional-changelog": "^3.1.0"
   }
 }
