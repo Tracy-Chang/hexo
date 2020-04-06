@@ -5,6 +5,9 @@
   "hexo": {
     "version": "3.9.0"
   },
+  "scirpt": {
+    "release": "standard-version"
+  },
   "dependencies": {
     "hexo": "^3.9.0",
     "hexo-deployer-git": "^2.0.0",
@@ -15,15 +18,16 @@
     "hexo-renderer-ejs": "^0.3.1",
     "hexo-renderer-marked": "^1.0.1",
     "hexo-renderer-stylus": "^0.3.3",
-    "hexo-server": "^0.3.3"
+    "hexo-server": "^0.3.3",
+    "standard-version": "^7.1.0"
   },
   "devDependencies": {
     "commitizen": "^4.0.3",
     "cz-conventional-changelog": "^3.1.0"
   },
   "config": {
-     "commitizen": {
-       "path": "node_modules/cz-conventional-changelog"
-     }
-   }
+    "commitizen": {
+      "path": "node_modules/cz-conventional-changelog"
+    }
+  }
 }
