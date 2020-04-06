@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.1.1](https://github.com/Tracy-Chang/hexo/compare/v0.1.0...v0.1.1) (2020-04-06)
+
+
+### Features
+
+* 🎸 git-cz ([7aecfab](https://github.com/Tracy-Chang/hexo/commit/7aecfab7ee22219ee2ab9a5c79a36d96f94f5e88))
+
 ## 0.1.0 (2020-04-06)
 
 
