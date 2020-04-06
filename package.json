@@ -6,7 +6,8 @@
     "version": "3.9.0"
   },
   "scripts": {
-    "release": "standard-version"
+    "release": "standard-version",
+    "commit": "git add . && npx git-cz"
   },
   "dependencies": {
     "hexo": "^3.9.0",
