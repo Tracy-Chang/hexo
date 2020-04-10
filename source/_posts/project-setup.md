@@ -31,13 +31,16 @@ tags:
 
 参考：https://tracy-chang.github.io/2020/03/28/vue-cli3-setup/
 
-### .postcssrc
-
-### postcss.config.js
+### .postcssrc / postcss.config.js
+* postcss 的配置文件
+* postcss 中存在很多插件，包括格式化要求的插件：stylelint, https://stylelint.io/
 
 ### jest.config.js
 
+参考：https://tracy-chang.github.io/2020/04/09/测试/
+
 ### changelog.config.js
+* git-cz 的 cli 用户界面显示内容等配置
 
 ### jsconfig.json
-
+* vscode 中，当在你的工作空间中有一个“jsconfig.json”文件以定义项目内容时，JavaScript的体验会更佳。因此，当你在一个新的工作空间中打开JavaScript文件时，我们会提供一个建立“jsconfig.json”文件的提示。
